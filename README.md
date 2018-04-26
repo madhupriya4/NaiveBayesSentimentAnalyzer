@@ -37,4 +37,3 @@ The classification program will be invoked in the following way:
 > python nbclassify.py /path/to/input
 
 The argument is a single file containing the test data file; the program will read the parameters of a naive Bayes model from the file nbmodel.txt, classify each entry in the test data, and write the results to a text file called nboutput.txt in the same format as the answer key.
-# NaiveBayesSentimentAnalyzer
